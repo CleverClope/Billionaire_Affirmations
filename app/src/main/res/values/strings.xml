@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    //first pages
+    <string name="app_name">Billionaire_Affirmations</string>
+    <string name="welcome">WELCOME</string>
+    <string name="to">TO</string>
+    <string name="billionaire_affir">BILLIONAIRE</string>
+    <string name="below_billionaire">AFFIRMATIONS</string>
+    <string name="below_affirmations">"Develope a billionaire"</string>
+    <string name="below_develope">"Mindset"</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="skip">SKIP</string>
+
+    //swipe hooks
+    <string name="swipe_hook_one">Develope a billionaire Mindset</string>
+    <string name="swipe_hook_one2">Attract People, Resources and  </string>
+    <string name="swipe_hook_one3">opportunities to create</string>
+    <string name="swipe_hook_one4">billionaire life</string>
+    <string name="swipe_hook_two">Become Richer, Wealthier and</string>
+    <string name="swipe_hook_two2">more Abundant in your Life</string>
+    <string name="swipe_hook_three">Feel Motivated, Reshape Your</string>
+    <string name="swipe_hook_three2">limiting beliefs</string>
+    <string name="swipe_hook_four">Speak Positively and live</string>
+    <string name="swipe_hook_four2">Your best life with daily </string>
+    <string name="swipe_hook_four3">Billionaire Affirmations</string>
+</resources>
